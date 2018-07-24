@@ -18,7 +18,7 @@ var skipReq = 0;
 var skippers = [];
 var now_playing = [];
 
-const prefix = "!";
+const prefix = "1";
 
 
 
